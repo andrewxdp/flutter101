@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:workshop/answer_portal.dart';
+
+import 'package:workshop/registration_form.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const AnswerPortal(),
+      home: RegistrationForm(),
     );
   }
 }
