@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:workshop/homework/answer1.dart';
-import 'package:workshop/homework/answer2.dart';
-import 'package:workshop/homework/answer3.dart';
-import 'package:workshop/homework/answer4.dart';
+import 'package:workshop/widget_homework/answer1.dart';
+import 'package:workshop/widget_homework/answer2.dart';
+import 'package:workshop/widget_homework/answer3.dart';
+import 'package:workshop/widget_homework/answer4.dart';
 
 class AnswerPortal extends StatelessWidget {
   const AnswerPortal({super.key});

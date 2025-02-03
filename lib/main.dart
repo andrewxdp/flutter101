@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-
-import 'package:workshop/registration_form.dart';
+import 'package:workshop/air_quality_index.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,10 +15,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
+        textTheme: GoogleFonts.poppinsTextTheme(),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: RegistrationForm(),
+      home: AirQualityIndex(),
     );
   }
 }
