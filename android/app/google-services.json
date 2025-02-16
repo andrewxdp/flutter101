@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447791538725",
+    "project_id": "projectstoredata-45dd9",
+    "storage_bucket": "projectstoredata-45dd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447791538725:android:1d20b00f874894250295cc",
+        "android_client_info": {
+          "package_name": "com.example.workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZ20t84CjKO59BerWzNNHY3e3ZH02k2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
