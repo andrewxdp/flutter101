@@ -101,7 +101,7 @@ class _TrafficlightanimationState extends State<Trafficlightanimation> {
                 ),
               ),
               SizedBox(
-                height: 20,
+                height: 10,
               ),
               AnimatedOpacity(
                 duration: const Duration(milliseconds: 400),
